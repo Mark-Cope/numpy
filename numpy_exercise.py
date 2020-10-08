@@ -13,3 +13,4 @@ print('AVG by test:',grades.mean(axis=0))
 
 print('AVG by student:',grades.mean(axis=1))
 
+print()
